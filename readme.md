@@ -1,5 +1,3 @@
-# Final project readme here
-
 # Web Application Link : 
 https://instacartanalytics.herokuapp.com/
 
