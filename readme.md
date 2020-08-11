@@ -14,7 +14,7 @@ This repository contains end-to-end tutorial-like code samples to help solve tex
 *   [Scikit-learn](http://scikit-learn.org/stable/)
 *   [Light Gradient boosting] (https://lightgbm.readthedocs.io/en/latest/)
 *   [Logistic Regression] (https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
-*   [Truricreate] 
+*   [Turicreate] 
 
 # Modules:
 We have one module for each step in the text classification workflow.
